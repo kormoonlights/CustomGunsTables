@@ -1,0 +1,194 @@
+[
+	{
+		"Name": "m14",
+		"Gun":
+		{
+			"GunName": "m14",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3400,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M14/icon_m14.icon_m14'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 35,
+			"ArmourDamage": 60,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M14/Gun_M14.Gun_M14_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m14",
+			"LootMeshSoftObjectPath": "/UGC3270138/M14/SK_M14.SK_M14"
+		}
+	},
+	{
+		"Name": "m14_20",
+		"Gun":
+		{
+			"GunName": "m14_20",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3600,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M14/icon_m14_20.icon_m14_20'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 35,
+			"ArmourDamage": 60,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M14/Gun_M14_20.Gun_M14_20_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m14_20",
+			"LootMeshSoftObjectPath": "/UGC3270138/M14/SK_M14.SK_M14"
+		}
+	},
+	{
+		"Name": "m16a1",
+		"Gun":
+		{
+			"GunName": "m16a1",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 2300,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M16A1/icon_m16a1.icon_m16a1'"
+			},
+			"KillBonus": 300,
+			"BaseDamage": 20,
+			"ArmourDamage": 45,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M16A1/Gun_M16A1.Gun_M16A1_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m16a1",
+			"LootMeshSoftObjectPath": "/UGC3270138/M16A1/SK_M16A1.SK_M16A1"
+		}
+	},
+	{
+		"Name": "m16a1m203",
+		"Gun":
+		{
+			"GunName": "m16a1m203",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3000,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M16A1/icon_m16a1m203.icon_m16a1m203'"
+			},
+			"KillBonus": 300,
+			"BaseDamage": 20,
+			"ArmourDamage": 45,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M16A1/Gun_M16A1M203.Gun_M16A1M203_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m16a1m203",
+			"LootMeshSoftObjectPath": "/UGC3270138/M16A1/SK_M16M203.SK_M16M203"
+		}
+	},
+	{
+		"Name": "m60",
+		"Gun":
+		{
+			"GunName": "m60",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Heavy",
+				"TeamId": -1,
+				"Cost": 3000,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M60/icon_m60.icon_m60'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 20,
+			"ArmourDamage": 40,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 85,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M60/Gun_M60.Gun_M60_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m60",
+			"LootMeshSoftObjectPath": "/UGC3270138/M60/SK_M60.SK_M60"
+		}
+	},
+	{
+		"Name": "m79",
+		"Gun":
+		{
+			"GunName": "m79",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Gear",
+				"TeamId": -1,
+				"Cost": 700,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/M79/icon_m79.icon_m79'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 150,
+			"ArmourDamage": 100,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M79/Gun_M79.Gun_M79_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m79",
+			"LootMeshSoftObjectPath": "/UGC3270138/M79/SK_M79_NEW.SK_M79_NEW"
+		}
+	}
+]

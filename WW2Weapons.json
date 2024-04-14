@@ -1,0 +1,354 @@
+[
+	{
+		"Name": "fg42e",
+		"Gun":
+		{
+			"GunName": "fg42e",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3200,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/FG42E/icon_fg42e.icon_fg42e'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 32,
+			"ArmourDamage": 60,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/FG42E/Gun_FG42E.Gun_FG42E_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "fg42e",
+			"LootMeshSoftObjectPath": "/UGC3269920/FG42E/SK_FG42E.SK_FG42E"
+		}
+	},
+	{
+		"Name": "hdm",
+		"Gun":
+		{
+			"GunName": "hdm",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 400,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/HDM/icon_hdm.icon_hdm'"
+			},
+			"KillBonus": 800,
+			"BaseDamage": 20,
+			"ArmourDamage": 20,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 50,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/HDM/Gun_HDM.Gun_HDM_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "hdm",
+			"LootMeshSoftObjectPath": "/UGC3269920/HDM/SK_HDM.SK_HDM"
+		}
+	},
+	{
+		"Name": "hdm_high",
+		"Gun":
+		{
+			"GunName": "hdm_high",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 800,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/HDM/icon_hdm.icon_hdm'"
+			},
+			"KillBonus": 600,
+			"BaseDamage": 35,
+			"ArmourDamage": 35,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/HDM/Gun_HDM_High.Gun_HDM_High_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "hdm_high",
+			"LootMeshSoftObjectPath": "/UGC3269920/HDM/SK_HDM.SK_HDM"
+		}
+	},
+	{
+		"Name": "m1919a6",
+		"Gun":
+		{
+			"GunName": "m1919a6",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3200,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/M1919A6/icon_m1919a6.icon_m1919a6'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 25,
+			"ArmourDamage": 40,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/M1919A6/Gun_M1919A6.Gun_M1919A6_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m1919a6",
+			"LootMeshSoftObjectPath": "/UGC3269920/M1919A6/SK_M1919A6.SK_M1919A6"
+		}
+	},
+	{
+		"Name": "m1a1thompson",
+		"Gun":
+		{
+			"GunName": "m1a1thompson",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Smg",
+				"TeamId": -1,
+				"Cost": 1600,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/M1A1Thompson/icon_m1a1thompson.icon_m1a1thompson'"
+			},
+			"KillBonus": 400,
+			"BaseDamage": 20,
+			"ArmourDamage": 30,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 25,
+			"HelmetBleed": 25,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/M1A1Thompson/Gun_M1A1Thompson.Gun_M1A1Thompson_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m1a1thompson",
+			"LootMeshSoftObjectPath": "/UGC3269920/M1A1Thompson/SK_M1A1.SK_M1A1"
+		}
+	},
+	{
+		"Name": "m1carbine",
+		"Gun":
+		{
+			"GunName": "m1carbine",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 2100,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/M1Carbine/icon_m1carbine.icon_m1carbine'"
+			},
+			"KillBonus": 200,
+			"BaseDamage": 25,
+			"ArmourDamage": 45,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/M1Carbine/Gun_M1Carbine.Gun_M1Carbine_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m1carbine",
+			"LootMeshSoftObjectPath": "/UGC3269920/M1Carbine/SK_M1CarbineV2.SK_M1CarbineV2"
+		}
+	},
+	{
+		"Name": "m3a1",
+		"Gun":
+		{
+			"GunName": "m3a1",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Smg",
+				"TeamId": -1,
+				"Cost": 1400,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/M3A1/icon_m3a1.icon_m3a1'"
+			},
+			"KillBonus": 400,
+			"BaseDamage": 20,
+			"ArmourDamage": 30,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 25,
+			"HelmetBleed": 25,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/M3A1/Gun_M3A1.Gun_M3A1_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "m3a1",
+			"LootMeshSoftObjectPath": "/UGC3269920/M3A1/SK_M3A1.SK_M3A1"
+		}
+	},
+	{
+		"Name": "p38",
+		"Gun":
+		{
+			"GunName": "p38",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 500,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/P38/icon_p38.icon_p38'"
+			},
+			"KillBonus": 400,
+			"BaseDamage": 20,
+			"ArmourDamage": 40,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 50,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/P38/Gun_P38.Gun_P38_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "p38",
+			"LootMeshSoftObjectPath": "/UGC3269920/P38/SK_P38.SK_P38"
+		}
+	},
+	{
+		"Name": "ptrd41",
+		"Gun":
+		{
+			"GunName": "ptrd41",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Heavy",
+				"TeamId": -1,
+				"Cost": 4250,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/PTRD41/icon_ptrd41.icon_ptrd41'"
+			},
+			"KillBonus": 0,
+			"BaseDamage": 200,
+			"ArmourDamage": 100,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/PTRD41/Gun_PTRD41.Gun_PTRD41_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "ptrd41",
+			"LootMeshSoftObjectPath": "/UGC3269920/PTDR41/SK_PTRD41.SK_PTRD41"
+		}
+	},
+	{
+		"Name": "welrod",
+		"Gun":
+		{
+			"GunName": "welrod",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 400,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/Welrod/icon_welrod.icon_welrod'"
+			},
+			"KillBonus": 800,
+			"BaseDamage": 20,
+			"ArmourDamage": 20,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 50,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/Welrod/Gun_Welrod.Gun_Welrod_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "welrod",
+			"LootMeshSoftObjectPath": "/UGC3269920/Welrod/SK_Welrod.SK_Welrod"
+		}
+	},
+	{
+		"Name": "welrod_high",
+		"Gun":
+		{
+			"GunName": "welrod_high",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 800,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3269920/Welrod/icon_welrod.icon_welrod'"
+			},
+			"KillBonus": 600,
+			"BaseDamage": 35,
+			"ArmourDamage": 35,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3269920/Welrod/Gun_Welrod.Gun_Welrod_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "welrod_high",
+			"LootMeshSoftObjectPath": "/UGC3269920/Welrod/SK_Welrod.SK_Welrod"
+		}
+	}
+]
