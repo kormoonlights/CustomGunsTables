@@ -4,7 +4,7 @@
 		"Gun":
 		{
 			"GunName": "m14",
-			"MagazineCount": 3,
+			"MagazineCount": 4,
 			"Cost": 1500,
 			"BuyMenuDetails":
 			{
@@ -18,7 +18,7 @@
 			"ArmourDamage": 60,
 			"ArmourPenetration": 100,
 			"HelmetDamage": 100,
-			"HelmetBleed": 100,
+			"HelmetBleed": 75,
 			"Penetration": 100,
 			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M14/Gun_M14.Gun_M14_C'",
 			"FalloffModifier": 1,
@@ -36,7 +36,7 @@
 		"Gun":
 		{
 			"GunName": "m14_20",
-			"MagazineCount": 3,
+			"MagazineCount": 2,
 			"Cost": 1500,
 			"BuyMenuDetails":
 			{
@@ -50,7 +50,7 @@
 			"ArmourDamage": 60,
 			"ArmourPenetration": 100,
 			"HelmetDamage": 100,
-			"HelmetBleed": 100,
+			"HelmetBleed": 75,
 			"Penetration": 100,
 			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/M14/Gun_M14_20.Gun_M14_20_C'",
 			"FalloffModifier": 1,
@@ -68,7 +68,7 @@
 		"Gun":
 		{
 			"GunName": "m16a1",
-			"MagazineCount": 3,
+			"MagazineCount": 5,
 			"Cost": 1500,
 			"BuyMenuDetails":
 			{
@@ -100,7 +100,7 @@
 		"Gun":
 		{
 			"GunName": "m16a1m203",
-			"MagazineCount": 3,
+			"MagazineCount": 5,
 			"Cost": 1500,
 			"BuyMenuDetails":
 			{
@@ -189,6 +189,134 @@
 		{
 			"ItemName": "m79",
 			"LootMeshSoftObjectPath": "/UGC3270138/M79/SK_M79_NEW.SK_M79_NEW"
+		}
+	},
+	{
+		"Name": "mac10",
+		"Gun":
+		{
+			"GunName": "mac10",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 1100,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/MAC10/icon_mac10.icon_mac10'"
+			},
+			"KillBonus": 700,
+			"BaseDamage": 25,
+			"ArmourDamage": 25,
+			"ArmourPenetration": 10,
+			"HelmetDamage": 75,
+			"HelmetBleed": 50,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/MAC10/Gun_MAC10.Gun_MAC10_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "mac10",
+			"LootMeshSoftObjectPath": "/UGC3270138/MAC10/SK_MAC10.SK_MAC10"
+		}
+	},
+	{
+		"Name": "makarovpm",
+		"Gun":
+		{
+			"GunName": "makarovpm",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Pistol",
+				"TeamId": -1,
+				"Cost": 250,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/MakarovPM/icon_makarovpm.icon_makarovpm'"
+			},
+			"KillBonus": 600,
+			"BaseDamage": 20,
+			"ArmourDamage": 15,
+			"ArmourPenetration": 5,
+			"HelmetDamage": 35,
+			"HelmetBleed": 50,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/MakarovPM/Gun_MakarovPM.Gun_MakarovPM_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "makarovpm",
+			"LootMeshSoftObjectPath": "/UGC3270138/MakarovPM/SK_MakarovPM.SK_MakarovPM"
+		}
+	},
+	{
+		"Name": "xm177",
+		"Gun":
+		{
+			"GunName": "xm177",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 2700,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/XM177/icon_xm177.icon_xm177'"
+			},
+			"KillBonus": 300,
+			"BaseDamage": 20,
+			"ArmourDamage": 45,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 75,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/XM177/Gun_XM177.Gun_XM177_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "xm177",
+			"LootMeshSoftObjectPath": "/UGC3270138/XM177/SK_XM177.SK_XM177"
+		}
+	},
+	{
+		"Name": "xm21",
+		"Gun":
+		{
+			"GunName": "xm21",
+			"MagazineCount": 3,
+			"Cost": 1500,
+			"BuyMenuDetails":
+			{
+				"BuyMenuCategory": "Rifle",
+				"TeamId": -1,
+				"Cost": 3400,
+				"BuyMenuImage": "/Script/Engine.Texture2D'/UGC3270138/XM21/icon_xm21.icon_xm21'"
+			},
+			"KillBonus": 100,
+			"BaseDamage": 35,
+			"ArmourDamage": 60,
+			"ArmourPenetration": 100,
+			"HelmetDamage": 100,
+			"HelmetBleed": 100,
+			"Penetration": 100,
+			"GunClass": "/Script/Engine.BlueprintGeneratedClass'/UGC3270138/XM21/Gun_XM21.Gun_XM21_C'",
+			"FalloffModifier": 1,
+			"MinFalloffDist": 500,
+			"MaxFalloffDist": 4000
+		},
+		"LootMesh":
+		{
+			"ItemName": "xm21",
+			"LootMeshSoftObjectPath": "/UGC3270138/M14/SK_M14.SK_M14"
 		}
 	}
 ]
