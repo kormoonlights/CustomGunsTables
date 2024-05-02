@@ -69,7 +69,7 @@
 		{
 			"GunName": "ak74m",
 			"MagazineCount": 3,
-			"Cost": 1500,
+			"Cost": 5500,
 			"BuyMenuDetails":
 			{
 				"BuyMenuCategory": "Rifle",
@@ -101,7 +101,7 @@
 		{
 			"GunName": "ak74m_gp25",
 			"MagazineCount": 3,
-			"Cost": 1500,
+			"Cost": 5500,
 			"BuyMenuDetails":
 			{
 				"BuyMenuCategory": "Rifle",
