@@ -197,7 +197,7 @@
 		{
 			"GunName": "m110_tan",
 			"MagazineCount": 3,
-			"Cost": 1500,
+			"Cost": 5500,
 			"BuyMenuDetails":
 			{
 				"BuyMenuCategory": "Rifle",
